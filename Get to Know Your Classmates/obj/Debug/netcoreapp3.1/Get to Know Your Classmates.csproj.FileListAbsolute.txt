@@ -1,0 +1,11 @@
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\bin\Debug\netcoreapp3.1\Get to Know Your Classmates.exe
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\bin\Debug\netcoreapp3.1\Get to Know Your Classmates.deps.json
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\bin\Debug\netcoreapp3.1\Get to Know Your Classmates.runtimeconfig.json
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\bin\Debug\netcoreapp3.1\Get to Know Your Classmates.runtimeconfig.dev.json
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\bin\Debug\netcoreapp3.1\Get to Know Your Classmates.dll
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\bin\Debug\netcoreapp3.1\Get to Know Your Classmates.pdb
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\obj\Debug\netcoreapp3.1\Get to Know Your Classmates.csprojAssemblyReference.cache
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\obj\Debug\netcoreapp3.1\Get to Know Your Classmates.AssemblyInfoInputs.cache
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\obj\Debug\netcoreapp3.1\Get to Know Your Classmates.AssemblyInfo.cs
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\obj\Debug\netcoreapp3.1\Get to Know Your Classmates.dll
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Get to Know Your Classmates\Get to Know Your Classmates\obj\Debug\netcoreapp3.1\Get to Know Your Classmates.pdb
