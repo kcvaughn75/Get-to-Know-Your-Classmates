@@ -19,7 +19,7 @@ namespace Get_to_Know_Your_Classmates
 
                 while (tryAgain)
                 {
-                    string userInput = Console.ReadLine().ToLower();
+                    string userInput = Console.ReadLine();
                     tryAgain = false;
                     switch (userInput)
                     {
